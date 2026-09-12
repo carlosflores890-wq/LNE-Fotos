@@ -1,0 +1,1 @@
+window.LNE_ASSETS={lne:'data:image/jpeg;base64,'+(window.LNE_LOGO||'')};

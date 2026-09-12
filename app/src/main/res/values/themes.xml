@@ -1,0 +1,10 @@
+<resources>
+<style name="Theme.LNEFotos" parent="android:style/Theme.Material.Light.NoActionBar">
+    <item name="android:fontFamily">sans</item>
+    <item name="android:windowActionModeOverlay">true</item>
+    <item name="android:colorAccent">#16BAFF</item>
+    <item name="android:navigationBarColor">#03090F</item>
+    <item name="android:statusBarColor">#03090F</item>
+    <item name="android:windowLightStatusBar">false</item>
+</style>
+</resources>
