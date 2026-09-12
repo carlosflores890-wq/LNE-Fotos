@@ -1,0 +1,1 @@
+window.LNE_ASSETS=window.LNE_ASSETS||{};window.LNE_ASSETS.sponsors='data:image/webp;base64,'+(window.LNE_SPONSORS||'');
