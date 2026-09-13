@@ -1,1 +1,1 @@
-window.LNE_ASSETS={lne:'data:image/jpeg;base64,'+(window.LNE_LOGO||'')};
+window.LNE_ASSETS=window.LNE_ASSETS||{};window.LNE_ASSETS.lne='data:image/webp;base64,'+(window.LNE_LOGO||'');
